@@ -41,7 +41,7 @@ double Bridge::team_cross_bridge() {
 		}
 		
 	}
-	cout << "\nbridge_cross_time = " << bridge_cross_time << endl;
+	// cout << "\nbridge_cross_time = " << bridge_cross_time << endl;
 
 	return bridge_cross_time;
 
